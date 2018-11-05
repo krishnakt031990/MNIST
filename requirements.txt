@@ -1,0 +1,8 @@
+pytorch
+tensorflow
+tensorboardX
+tensorflow
+torchvision
+onnx
+caffe2
+future
